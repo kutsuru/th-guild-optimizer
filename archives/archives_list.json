@@ -1,34 +1,10 @@
 [
   {
+    "label": "GAR Day1 - Construction - S2W16",
+    "path": "archives/S2W16-GAR-Day1.csv"
+  },
+  {
     "label": "Guild Race Day7 S2W15 - Final Results",
     "path": "archives/GR-260413.csv"
-  },
-  {
-    "label": "Guild Race Day4 S2W15",
-    "path": "archives/GR-260410.csv"
-  },
-  {
-    "label": "Guild Race Day3 S2W15",
-    "path": "archives/GR-260409.csv"
-  },
-  {
-    "label": "Guild Race Day2 S2W15",
-    "path": "archives/GR-260408.csv"
-  },
-  {
-    "label": "Guild Race Day1 S2W15",
-    "path": "archives/GR-260407.csv"
-  },
-  {
-    "label": "Guild Race Day5 S2W13",
-    "path": "archives/GR-260327.csv"
-  },
-  {
-    "label": "Guild Race Day3 S2W13",
-    "path": "archives/GR-260325.csv"
-  },
-  {
-    "label": "GAR Day4 S2W12",
-    "path": "archives/S2W12-GAR-Day4.csv"
   }
 ]
