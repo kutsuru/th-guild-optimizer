@@ -1,5 +1,13 @@
 [
   {
+    "label": "GAR Day2 - Research - S3W2",
+    "path": "archives/S3W2-GAR-Day2.csv"
+  },
+  {
+    "label": "GAR Day1 - Construction - S3W2",
+    "path": "archives/S3W2-GAR-Day1.csv"
+  },
+  {
     "label": "Guild Race Final - S3W2",
     "path": "archives/GR-S3W1-Final.csv"
   },
