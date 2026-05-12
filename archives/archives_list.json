@@ -1,4 +1,8 @@
 [{
+  {
+    "label": "Guild Race Day2 - S3W3",
+    "path": "archives/GR-S3W3-Final.csv"
+  },
     "label": "GAR Day6 - War - S3W2",
     "path": "archives/S3W2-GAR-Day6.csv"
   },
@@ -23,7 +27,7 @@
     "path": "archives/S3W2-GAR-Day1.csv"
   },
   {
-    "label": "Guild Race Final - S3W2",
+    "label": "Guild Race Final - S3W1",
     "path": "archives/GR-S3W1-Final.csv"
   },
   {
