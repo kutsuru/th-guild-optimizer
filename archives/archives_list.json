@@ -1,5 +1,13 @@
 [
   {
+    "label": "Guild Race Final - S3W7",
+    "path": "archives/GR-S3W7-Final.csv"
+  },
+  {
+    "label": "Season Medals - S3W6",
+    "path": "archives/S3W6-Season-Medals.csv"
+  },
+  {
     "label": "GAR Day6 - War - S3W6",
     "path": "archives/S3W6-GAR-Day6.csv"
   },
